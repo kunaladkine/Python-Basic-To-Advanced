@@ -1,0 +1,12 @@
+def menu():
+    print("_"*50)
+    print("\tEmploye Information System")
+    print("_"*50)
+    print("\t1. Add New Employe")
+    print("\t2. Delete Employe")
+    print("\t3. Update Employe")
+    print("\t4. View Employe Details")
+    print("\t5. Vview All Employe Details")
+    print("\t6. Search Employe Details")
+    print("\t7. Exit")
+    print("_"*50)

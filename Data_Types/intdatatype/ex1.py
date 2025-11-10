@@ -1,0 +1,11 @@
+lst=[10,"rahul",10.39,2+3j]
+print(lst)
+a=[]
+s="Welcome"
+b=list(s)
+print(b)
+lst.append("shiva")
+print(lst)
+lst.insert(0,"shiva")
+print(lst)
+list.("")

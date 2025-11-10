@@ -1,0 +1,8 @@
+a=float(input("Enter Value a ="))
+b=float(input("Enter Value b ="))
+print("a==b",a==b)
+print("a!=b",a!=b)
+print("a>b",a>b)
+print("a<b",a<b)
+print("a>=b",a>=b)
+print("a<=b",a<=b)
